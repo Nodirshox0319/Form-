@@ -1,0 +1,140 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url(192463.jpg);
+}
+.po{
+    width: 800px;
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 850px;
+    text-align: center;
+    margin-left: 450px;
+    margin-top: 30px;
+}
+
+.obb{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+.ko{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;   
+    display: flex;
+    margin-left: 50px;
+    margin-top: 30px;    
+    
+}
+.ko h2{
+    margin-left: 50px;
+}
+.ko input{
+    margin-left: 100px;
+    width: 200px;
+}
+
+.ww{
+    position: absolute;
+    left: 710px;
+    bottom: 755px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+    
+}
+
+.ee{
+    position: absolute;
+    right: 590px;
+    bottom: 755px;
+    font-size: 17px;
+}
+
+.log{
+display: flex;
+color: white;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin-left: 80px;
+}
+
+.log input{
+    margin-left: 85px;
+    width: 500px;
+}
+
+.log2{
+    display: flex;
+color: white;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin-left: 90px;
+}
+
+.log2 input{
+    margin-left: 112px;
+    width: 500px;
+}
+
+.ph{
+    display: flex;
+color: white;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin-left: 90px;
+}
+
+.ph input{
+    margin-left:100px;
+}
+
+.inp1{
+    width: 60px;
+}
+.inp2{
+    width: 350px;
+}
+
+.kkk{
+    position: absolute;
+    left: 705px;
+    bottom: 510px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+}
+
+.ggg{
+    position: absolute;
+    right: 700px;
+    bottom: 510px;
+    font-size: 17px;
+}
+
+.log3{
+    display: flex;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 90px;
+}
+.log3 input{
+    margin-left: 90px;
+    width: 520px;
+}
+.log33{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 90px;
+}
+
+button{
+    padding: 8px 60px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(7, 182, 252);
+}
+
+label{
+    color: rgb(0, 0, 0);
+}
